@@ -2,6 +2,6 @@
 This is a website for an AR Library! You can view it [here](Website.html)!
 
 
-Click the link below to download the demo event app 
+Click the link below to download the HoloDeb app 
 
 <a href="itms-services://?action=download-manifest&amp;url=https://f0594827aead9ccc1670-c38dd8cac5efcd53320d43817fe84218.ssl.cf5.rackcdn.com/HoloDeb/manifest4.plist">Install App</a>
